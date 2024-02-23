@@ -6,7 +6,7 @@ Exercise 2 consists of 3 problems. For each problem you need to modify the noteb
 
 **Please don't change the file name**. Do all of your editing in the provided `Exercise-2.ipynb` file. 
 
-- **Exercise 2 is due by the start of the next lesson (8 March 2023)**.
+- **Exercise 2 is due by the start of the next lesson (2 March 2024)**.
 - **We are [working in pairs](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the driver in your pair for this week's exercise.
 
 ## Where to find help
@@ -18,7 +18,7 @@ Exercise 2 consists of 3 problems. For each problem you need to modify the noteb
 
 ### Clone the Exercise 2 repository
 
-Make sure you have cloned your own repository from [Github Classroom](https://classroom.github.com/a/lidLTKiq) (note that repository name contains your GitHub username).
+Make sure you have cloned your own repository from [Github Classroom](https://classroom.github.com/a/j69Xfiow) (note that repository name contains your GitHub username).
 
 After solving the problems, remember to commit your changes and push them to GitHub.
 Remember also to answer all written questions in the exercise, in addition to the programming tasks.
